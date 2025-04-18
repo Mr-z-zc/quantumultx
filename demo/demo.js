@@ -1,4 +1,4 @@
-  const $ = new Env("海信爱家")
+  const $ = new Env('海信爱家');
 (function(){
 
   console.log($,"$$$$$$$$")
