@@ -1,5 +1,6 @@
-(function(){
   const $ = new Env("海信爱家")
+(function(){
+
   console.log($,"$$$$$$$$")
   $notify("测试", '', "内容");$done()})()
 // MD5 (Message-Digest Algorithm)
